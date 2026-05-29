@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Siemorixabot01",
+    "username": "Siemorixabot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Siemorixa.aternos.me:44442",
+    "ip": "Siemorixa.aternos.me",
     "port": 44442,
     "version": "1.21.1",
     "try-creative": false
