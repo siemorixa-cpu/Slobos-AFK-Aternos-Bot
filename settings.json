@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Siemorixa.aternos.me",
+    "ip": "Siemorixa.aternos.me:44442",
     "port": 44442,
     "version": "1.21.1",
     "try-creative": false
